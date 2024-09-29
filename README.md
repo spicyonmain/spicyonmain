@@ -13,7 +13,7 @@
 </ul>
 
 ---
-<h3>Languaged I am Currently Learning</h3>
+<h3>Languages I am Currently Learning</h3>
 <ul>
   <li>Java</li>
 </ul>
