@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi there!👋 My name is Alex</h1>
 
-<!--
-**spicyonmain/spicyonmain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I am interested in Software Development and Cyber Security!</p>
 
-Here are some ideas to get you started:
+---
+<h3>Languages I am Familiar With:</h3>
+<ul>
+  <li>Python</li>
+  <li>C++</li>
+  <li>C#</li>
+  <li>HTML & CSS</li>
+  <li>JavaScript</li>
+</ul>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<h3>Languaged I am Currently Learning</h3>
+<ul>
+  <li>Java</li>
+</ul>
+---
