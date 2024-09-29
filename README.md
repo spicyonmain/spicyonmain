@@ -11,7 +11,6 @@
   <li>HTML & CSS</li>
   <li>JavaScript</li>
 </ul>
----
 
 ---
 <h3>Languaged I am Currently Learning</h3>
